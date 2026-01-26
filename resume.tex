@@ -7,13 +7,19 @@
 \usepackage[usenames,dvipsnames]{color}
 \usepackage{verbatim}
 \usepackage{enumitem}
-\usepackage[hidelinks]{hyperref}
+\usepackage[colorlinks]{hyperref}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
 \usepackage[scaled]{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 \linespread{1.0}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=blue,
+  linkcolor=blue,
+  citecolor=blue
+}
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
@@ -36,7 +42,7 @@
 % Sections formatting
 \titleformat{\section}{
   \vspace{-4pt}\scshape\large
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+}{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
 
 % Custom commands
 \newcommand{\resumeItem}[1]{%
@@ -81,6 +87,7 @@
 \input{summary}
 \input{experience}
 \input{skills}
+\newpage
 \input{projects}
 
 %-----------EDUCATION-----------
