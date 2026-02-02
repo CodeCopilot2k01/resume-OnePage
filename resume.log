@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  26 JAN 2026 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  2 FEB 2026 20:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -304,13 +304,13 @@ Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS)
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 22.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7
-6.
+7.
 
 (D:\Rakshiiii\Program files\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 76.
+(Font)              scaled to size 10.40245pt on input line 77.
 
 (D:\Rakshiiii\Program files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
@@ -319,24 +319,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 (D:\Rakshiiii\Program files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -352,35 +352,33 @@ LaTeX Font Info:    ... okay on input line 76.
 \makeMPintoPDFobject=\count306
 \everyMPtoPDFconversion=\toks27
 )
-Package hyperref Info: Link coloring ON on input line 76.
+Package hyperref Info: Link coloring ON on input line 77.
  (resume.out) (resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 10.40245pt on input line 80.
+(Font)              scaled to size 10.40245pt on input line 81.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 23.63593pt on input line 80.
+(Font)              scaled to size 23.63593pt on input line 81.
 LaTeX Font Info:    Font shape `OT1/phv/b/sc' will be
-(Font)              scaled to size 23.63593pt on input line 80.
+(Font)              scaled to size 23.63593pt on input line 81.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 81.
+(Font)              scaled to size 9.49997pt on input line 82.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 81.
+(Font)              <7> on input line 82.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 81.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 81
+(Font)              <5> on input line 82.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 82
 .
 
 (D:\Rakshiiii\Program files\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) (summary.tex
+) (experience.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
 (Font)              scaled to size 10.40245pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
 (Font)              scaled to size 11.39996pt on input line 1.
-)
-(experience.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -399,21 +397,8 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 7.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 9.49997pt on input line 7.
-
-Overfull \hbox (15.7424pt too wide) in paragraph at lines 10--11
-[]\OT1/phv/b/n/10 Developed REST-ful ser-vices \OT1/phv/m/n/10 and in-te-gra-ti
-on end-points; stan-dard-ized se-ri-al-iza-tion and se-cure com-mu-ni-ca-tion a
-cross Linux/Unix
- []
-
-
-Overfull \hbox (5.93854pt too wide) in paragraph at lines 13--14
-[]\OT1/phv/b/n/10 Diagnosed per-for-mance bot-tle-necks \OT1/phv/m/n/10 across 
-com-pute/memory/I/O; im-ple-mented profiling[]driven fixes to en-sure high thro
-ugh-
- []
-
-) (skills.tex)
+)
+(skills.tex) (projects.tex)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -422,36 +407,30 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/Rakshiiii/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/Rakshi
-iii/Program files/MiKTeX/fonts/enc/dvips/base/8r.enc}] (projects.tex)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
-
-[2] (resume.aux)
+iii/Program files/MiKTeX/fonts/enc/dvips/base/8r.enc}] (resume.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 345C1F93B9D526ECFD8676D215A7D356;528.
+(rerunfilecheck)             Checksum: B4C6FD5330A9F27E45AD7DEDEF81B0B5;450.
  ) 
 Here is how much of TeX's memory you used:
- 10998 strings out of 467871
- 173562 string characters out of 5423621
- 621138 words of memory out of 5000000
- 39728 multiletter control sequences out of 15000+600000
+ 10987 strings out of 467871
+ 173484 string characters out of 5423621
+ 628051 words of memory out of 5000000
+ 39722 multiletter control sequences out of 15000+600000
  648045 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,530b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,321b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/Rakshiiii/Program files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <D:/Rakshiiii/Program files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:
 /Rakshiiii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Rakshii
 ii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Rakshiiii/Progr
 am files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on resume.pdf (2 pages, 66394 bytes).
+Output written on resume.pdf (1 page, 62273 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

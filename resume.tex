@@ -32,7 +32,7 @@
 \addtolength{\evensidemargin}{-0.5in}
 \addtolength{\textwidth}{1in}
 \addtolength{\topmargin}{-.5in}
-\addtolength{\textheight}{1.0in}
+\addtolength{\textheight}{1.15in}
 
 \urlstyle{same}
 
@@ -41,8 +41,9 @@
 
 % Sections formatting
 \titleformat{\section}{
-  \vspace{-4pt}\scshape\large
-}{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
+  \vspace{0pt}\scshape\large
+}{}{0em}{}
+\titlespacing*{\section}{0pt}{1pt}{1pt}
 
 % Custom commands
 \newcommand{\resumeItem}[1]{%
@@ -50,28 +51,28 @@
 }
 
 \newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
+  \vspace{1pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
+      \textbf{#1} & #2 \\[1pt]
       \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
+    \end{tabular*}\vspace{1pt}
 }
 
 \newcommand{\resumeProjectHeading}[2]{
     \item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \small#1 & #2 \\
-    \end{tabular*}\vspace{-7pt}
+    \end{tabular*}\vspace{1pt}
 }
 
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{1pt}}
 
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}, itemsep=1pt, topsep=1pt, parsep=0pt, partopsep=0pt]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, itemsep=2pt, topsep=0pt, parsep=0pt, partopsep=0pt]}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, itemsep=1pt, topsep=1pt, parsep=0pt, partopsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{1pt}}
 
 \begin{document}
 
@@ -84,10 +85,8 @@
     \href{https://portfolio-website-jet-beta.vercel.app/}{\underline{Portfolio}}
 \end{center}
 
-\input{summary}
 \input{experience}
 \input{skills}
-\newpage
 \input{projects}
 
 %-----------EDUCATION-----------
@@ -104,11 +103,11 @@
 
 %-----------CO-CURRICULARS-----------
 \section{Co-Curriculars}
-\begin{itemize}[leftmargin=0.15in, label={}]
+\begin{itemize}[leftmargin=0.15in, label={}, itemsep=1pt, topsep=1pt, parsep=0pt, partopsep=0pt]
     \small{\item{
-     \textbf{Xstasis Dance Group}{: Siemens Healthineers.} \\
-     \textbf{Project Head}{: UCSP Research Group, NIE.} \\
-     \textbf{Marketing \& Design Head}{: Onyx E-Cell, NIE.}
+     \textbf{Xstasis Dance Group}{:Siemens Healthineers.}$|$
+     \textbf{Project Head}{:UCSP Research Group, NIE.}$|$
+     \textbf{Marketing Head}{:Onyx E-Cell, NIE.}
     }}
 \end{itemize}
 
