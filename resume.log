@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  27 FEB 2026 02:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  27 FEB 2026 03:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,6 +398,13 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 9.49997pt on input line 7.
 
+Overfull \hbox (3.38509pt too wide) in paragraph at lines 11--12
+[]\OT1/phv/b/n/10 Optimized XR-adjacent work-loads \OT1/phv/m/n/10 on \OT1/phv/
+b/n/10 het-ero-ge-neous mo-bile ar-chi-tec-tures \OT1/phv/m/n/10 (CPUs, GPUs); 
+con-ducted power/performance
+ []
+
+
 Overfull \hbox (12.87216pt too wide) in paragraph at lines 20--21
 []\OT1/phv/m/n/10 Developed \OT1/phv/b/n/10 REST APIs \OT1/phv/m/n/10 and data 
 mod-els (C#) with \OT1/phv/b/n/10 MySQL\OT1/phv/m/n/10 /\OT1/phv/b/n/10 Redis\O
@@ -429,13 +436,13 @@ Here is how much of TeX's memory you used:
  39722 multiletter control sequences out of 15000+600000
  648045 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,327b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,320b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/Rakshiiii/Program files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <D:/Rakshiiii/Program files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:
 /Rakshiiii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Rakshii
 ii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Rakshiiii/Progr
 am files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on resume.pdf (1 page, 62018 bytes).
+Output written on resume.pdf (1 page, 62757 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
